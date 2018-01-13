@@ -1,0 +1,3 @@
+# Module helloworld
+# RPC service class, partial path of RPC policy file
+com.google.gwt.sample.client.MessageService, 951ED9F8ED7AF151C10DAD0CA8123A16.gwt.rpc

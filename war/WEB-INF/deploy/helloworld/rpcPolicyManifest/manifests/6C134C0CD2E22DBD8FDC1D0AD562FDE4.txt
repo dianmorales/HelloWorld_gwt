@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.sample.client.MessageService
+path: 951ED9F8ED7AF151C10DAD0CA8123A16.gwt.rpc
